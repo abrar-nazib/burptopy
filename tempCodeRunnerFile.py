@@ -1,5 +1,0 @@
-url, method, data, headers = parse_file()
-print(url)
-print(method)
-print(data)
-print(headers)
